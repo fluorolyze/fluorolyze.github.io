@@ -65,6 +65,19 @@ iframe{
   top: 20px;
 }
 
+.hang {
+  text-indent: -5em;
+  margin-left: 6em;
+  font-size: 25px;
+  }
+
+#teamid{
+  position: absolute;
+  color: white;
+  height: 50px;
+  top: 1px;
+  right: 20px;
+}
 
 
 {box-sizing:border-box}
