@@ -11,7 +11,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     padding: 150px;
     padding-bottom: 200px;
     text-align: center;
-    background: #0aa499;
+    background: #153c79;
     margin-top: 20;
     color: white;
     font-size: 100px;
@@ -35,13 +35,13 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
 
 body{
-    background-color: #F1F1F1;
+    background-color: #f1f1f1;
 }
 
 .columnnav {
   width: 100%;
   padding-left: 3%;
-  background-color: #0aa499;
+  background-color: #153c79;
   border: 0 !important;
   margin-bottom: -20 !important;
   font-size: 25px;
@@ -49,7 +49,7 @@ body{
 }
 
 .columnID {
-  background-color: #0aa499;
+  background-color: #153c79;
   border: 0 !important;
   margin-bottom: -20 !important;
   font-size: 25px;
@@ -93,15 +93,15 @@ body{
 }
 
 .category:hover{
-    color: #114084;
+    color: #808080;
 }
 
 .category:active{
-    color: #114084;
+    color: #808080;
 }
 
 #current{
-    color: #114084;
+    color: #808080;
 }
 
 .content{
