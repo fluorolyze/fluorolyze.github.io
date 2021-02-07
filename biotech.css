@@ -17,14 +17,14 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     font-size: 100px;
 }
 
-#nav{
+/*#nav{
     background-color: #0aa499;
     border: 0 !important;
     margin-bottom: -20 !important;
     font-size: 25px;
     word-spacing: 200px;
     text-align: center;
-}
+}*/
 
 #pad{
   padding: 50px;
@@ -36,6 +36,24 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 
 body{
     background-color: #F1F1F1;
+}
+
+.columnnav {
+  width: 100%;
+  padding-left: 3%;
+  background-color: #0aa499;
+  border: 0 !important;
+  margin-bottom: -20 !important;
+  font-size: 25px;
+  text-align: left;
+}
+
+.columnID {
+  background-color: #0aa499;
+  border: 0 !important;
+  margin-bottom: -20 !important;
+  font-size: 25px;
+  text-align: right;
 }
 
 .column {
@@ -67,6 +85,7 @@ body{
 .category{
     color: rgb(241, 241, 241);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-right: 5%
 }
 
 .category:link{
